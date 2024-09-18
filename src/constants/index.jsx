@@ -133,7 +133,7 @@ export const pricingOptions = [
   },
   {
     title: "Pro",
-    price: "$10",
+    price: "$25",
     features: [
       "Private board sharing",
       "10 Gb Storage",
@@ -143,7 +143,7 @@ export const pricingOptions = [
   },
   {
     title: "Enterprise",
-    price: "$200",
+    price: "$65",
     features: [
       "Private board sharing",
       "Unlimited Storage",
