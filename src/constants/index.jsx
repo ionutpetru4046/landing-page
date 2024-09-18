@@ -21,7 +21,7 @@ export const navItems = [
 
 export const testimonials = [
   {
-    user: "John Doe",
+    user: "Michael Clark",
     company: "Stellar Solutions",
     image: user1,
     text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
